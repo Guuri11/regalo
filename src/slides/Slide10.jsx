@@ -6,8 +6,8 @@ import bandera from '../assets/bandera.webp';
 export default function Slide10() {
   return (
     <Slide
-      title="Pista final: Un país de historia y magia"
-      subtitle="¿Reconoces esta bandera? Pronto la verás ondear sobre castillos y plazas."
+      title="Pista final"
+      subtitle="¿Reconoces esta bandera?"
       image={bandera}
       imageAlt="Bandera de Chequia"
       color="#fff8e1"
