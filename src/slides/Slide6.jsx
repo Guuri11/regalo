@@ -5,8 +5,8 @@ import reloj from '../assets/reloj.jpg';
 export default function Slide6() {
   return (
     <Slide
-      title="Pista 4 — Su reloj más famoso"
-      subtitle="Un reloj que no solo marca horas: hay figuras que desfilan."
+      title="Pista 4 — Su reloj más famoso del siglo XV"
+      subtitle="No solo marca la hora: muestra el Sol, la Luna y cada hora desfilan figuras como los Apóstoles y la Muerte."
       image={reloj}
       imageAlt="Reloj astronómico medieval, detalle, ligeramente borroso"
       color="#fff8e1"
